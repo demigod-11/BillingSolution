@@ -1,0 +1,14 @@
+__pycache__
+.history
+.vscode
+venv
+.env
+local.py
+.DS_Store
+notes.txt
+.vim
+.mypy_cache
+*.local.py
+*.local.*
+*.*cache*
+**/*local.py
