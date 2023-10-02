@@ -5,6 +5,7 @@ venv
 .env
 local.py
 .DS_Store
+../.DS_Store
 notes.txt
 .vim
 .mypy_cache
